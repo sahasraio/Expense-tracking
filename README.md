@@ -1,3 +1,4 @@
+![WhatsApp Image 2026-03-11 at 5 22 24 PM](https://github.com/user-attachments/assets/15dc8d7b-dcb6-4026-98c1-889edae8a389)
 Project Overview
 
 The Expense Tracking and Budget Management System is a web-based application designed to help users manage their personal finances efficiently. The system allows users to record daily income and expenses, categorize transactions, and monitor their financial balance in real time. The application provides a simple and user-friendly interface for maintaining financial records digitally instead of using manual methods.
